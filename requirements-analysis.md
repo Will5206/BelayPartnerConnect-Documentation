@@ -61,7 +61,7 @@
 	    - Functionality: Alerts users to messages or confirmations.
 	    - Priority: Add later for convenience.
 
-	 # 8. **Events:**
+	 #### 3. **Events:**
 	
 	- **Create and Host Events:**
 		- Allow users, groups, or even climbing gyms to create and host climbing-related events.
@@ -93,12 +93,12 @@
 	    - Functionality: Propose and agree on climbing dates within the group.
 	    - Priority: Essential for group coordination.
 
-	### 4. Belay Someone with Visual Impairment:
+	### 5. Belay Someone with Visual Impairment:
 	
 	- **Certification for Belaying Visually Impaired Climbers:** Allow climbers to get certified to belay someone with visual impairment.
 	- **Course Creation (if needed):** If no certification exists, provide resources or a platform to create a course for this skill. <-check on this.
 	
-	### 5. Support and Contribution:
+	### 6. Support and Contribution:
 	
 	- **Buy Me a Coffee Link:** Include a link for users to contribute to the site's creator (me) as a form of support.
 
